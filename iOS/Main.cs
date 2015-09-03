@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace CrossPlataformSummit.iOS
+namespace CrossPlatformSummit.iOS
 {
 	public class Application
 	{

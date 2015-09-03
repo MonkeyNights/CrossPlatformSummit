@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>CrossPlataformSummit</string>
+	<string>CrossPlatformSummit</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.crossplataformsummit</string>
+	<string>com.companyname.CrossPlatformSummit</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
