@@ -1,5 +1,5 @@
 ﻿using CrossPlatformSummit.Core.Services;
-using CrossPlatformSummit.Core.ViewModel;
+using CrossPlatformSummit.Core.ViewModels;
 using CrossPlatformSummit.Services;
 using View;
 using Xamarin.Forms;
